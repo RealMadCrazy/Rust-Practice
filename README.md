@@ -1,2 +1,2 @@
 # Rust-Practice
-Fun and simple project to start rust
+Fun and simple projects to start rust
